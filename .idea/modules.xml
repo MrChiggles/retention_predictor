@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$USER_HOME$/ecommerce_predictor/.idea/ecommerce_predictor.iml" filepath="$USER_HOME$/ecommerce_predictor/.idea/ecommerce_predictor.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/retention_predictor.iml" filepath="$PROJECT_DIR$/.idea/retention_predictor.iml" />
     </modules>
   </component>
